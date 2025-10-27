@@ -65,6 +65,17 @@ PowerBI/
 
 ---
 
+## 💡 Key Insights & Learnings
+
+- Overall Sales Performance: Total sales exceed $899 million with a profit of approximately $332 million, reflecting a strong operational margin. 
+- Product Analysis: Men's Street Footwear and Men's Apparel lead in total sales, while Women's Athletic Footwear shows lower performance.
+- Retailer Analysis: West Gear, Foot Locker, and Sports Direct rank among top-performing retailers, with West Gear showing the highest sales volume and profit.
+- Regional Trends: The Northeast region delivers the highest profit, while the West and South show moderate performance.
+- Temporal Trends: Monthly analysis reveals a gradual decline in sales and profit over time, possibly due to seasonality or shifting market demand.
+
+
+---
+
 ## 📋 Author
 **Muhammed Jaseem VT**  
 📧 vtjaseem7@gmail.com 
